@@ -16,7 +16,7 @@ use yii\web\AssetBundle;
 
 class CYiiAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/jspaine/cyii/assets';
+    public $sourcePath = '@vendor/jspaine/cyii/src/assets';
     
     public function registerScripts()
     {
