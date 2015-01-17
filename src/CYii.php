@@ -1,5 +1,15 @@
 <?php
 
+/* 
+ * CYii class file
+ * 
+ * @author James Paine <painejs@hotmail.com>
+ * @link https://github.com/jspaine/cyii/
+ * @license http://www.opensource.org/licenses/mit-license.php MIT License
+ * @version 0.0.1
+ * 
+ */
+
 namespace jspaine\cyii;
 
 use Yii;
