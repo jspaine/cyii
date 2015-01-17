@@ -1,0 +1,23 @@
+{
+    "name": "jspaine/cyii",
+    "description": "c3.js widget for Yii 2 Framework.",
+    "keywords": ["yii2", "extension", "widget", "c3", "c3.js", "d3"],
+    "homepage": "https://github.com/jspaine/cyii",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Paine",
+            "email": "painejs@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "jspaine\\cyii\\": "src/"
+        }
+    }
+}
