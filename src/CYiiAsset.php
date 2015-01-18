@@ -20,7 +20,7 @@ class CYiiAsset extends AssetBundle
     
     public function registerScripts()
     {
-        $min = YII_DEBUG ? '' : '.min';
+        $min = YII_DEBUG ? '.min' : '';
         $js = 'js/';
         $css = 'css/';
         
